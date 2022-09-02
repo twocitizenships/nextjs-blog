@@ -37,6 +37,8 @@ export default function Home({ allPostsData }) {
         <p>
           <a href="mailto:twocitizenships@gmail.com">Email</a>
         </p>
+        <h2 className={utilStyles.headingLg}>Onchain</h2>
+        <img src="images/address.jpeg" style={{height: "144px", width: "144px"}} alt="Bitcoin Onchain Address"></img>
       </section>
       
       {/* <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
