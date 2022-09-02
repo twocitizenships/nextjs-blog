@@ -5,7 +5,7 @@ import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 
 const name = "clusk";
-export const siteTitle = "clusk | Home";
+export const siteTitle = "clusk | Lightning Engineer";
 
 export default function Layout({ children, home }) {
   return (
@@ -14,7 +14,7 @@ export default function Layout({ children, home }) {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="clusk bitcoin lightning network software developer"
+          content="clusk lightning network software developer bitcoin"
         />
         <meta
           property="og:image"
