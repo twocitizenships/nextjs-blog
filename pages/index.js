@@ -23,62 +23,15 @@ export default function Home({ allPostsData }) {
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <p>
           yes hello - I'm interested in Bitcoin and the Lightning network.
-          <br></br>
           Currently a software engineer at{" "}
           <a href="https://strike.me">Strike</a> + working on a side project
-          leveraging the Lightning network to support independent media.
+          leveraging the Lightning network to support independent media. 
+          <pre>
+          Reach
+          out on <a href="https://twitter.com/twocitizenships">Twitter</a>.
+          </pre>
         </p>
-        {/* <p>
-          <h2 className={utilStyles.headingLg}>contacts</h2>
-        </p> */}
-        <p>
-          <a href="https://twitter.com/twocitizenships">
-            <img
-              src="images/twitter.png"
-              style={{ height: "30px", width: "30px" }}
-            ></img>
-          </a>
-        </p>
-        <p>
-          <a href="https://github.com/twocitizenships">
-            <img
-              src="images/github-logo.png"
-              style={{ height: "30px", width: "30px" }}
-            ></img>
-          </a>
-        </p>
-        <p>
-          <a href="mailto:twocitizenships@gmail.com">
-            <img
-              src="images/email.png"
-              style={{ height: "30px", width: "30px" }}
-            ></img>
-          </a>
-        </p>
-        <h2 className={utilStyles.headingLg}>onchain address</h2>
-        <img
-          src="images/address.jpeg"
-          style={{ height: "144px", width: "144px" }}
-          alt="Bitcoin Onchain Address"
-        ></img>
       </section>
-
-      {/* <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-        <h2 className={utilStyles.headingLg}>Blog</h2>
-        <ul className={utilStyles.list}>
-          {allPostsData.map(({ id, date, title }) => (
-            <li className={utilStyles.listItem} key={id}>
-            <Link href={`/posts/${id}`}>
-              <a>{title}</a>
-            </Link>
-            <br />
-            <small className={utilStyles.lightText}>
-              <Date dateString={date} />
-            </small>
-          </li>
-          ))}
-        </ul>
-      </section> */}
     </Layout>
   );
 }
