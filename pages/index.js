@@ -24,7 +24,7 @@ export default function Home({ allPostsData }) {
         <p>
           yes hello - I'm interested in Bitcoin and the Lightning network.
           Currently a software engineer at{" "}
-          <a href="https://strike.me">Strike</a> + working on a side project
+          <a href="https://strike.me">Strike</a> + working on a project
           leveraging the Lightning network to support independent media. 
           <pre>
           Reach
