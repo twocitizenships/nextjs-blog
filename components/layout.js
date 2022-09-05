@@ -37,6 +37,13 @@ export default function Layout({ children, home }) {
               alt={name}
             />
             <h1 className={utilStyles.heading2Xl}>{name}</h1>
+            <Image
+              priority
+              src="/images/address.jpeg"
+              height={100}
+              width={100}
+              alt={name}
+            />
           </>
         ) : (
           <>
