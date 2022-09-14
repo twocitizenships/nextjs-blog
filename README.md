@@ -1,5 +1,5 @@
-### Next.js Biography
+### twocitizenships blog
 
-Created this to serve as a portfolio and contact page.
+nextjs-blog-twocitizenships.vercel.app/
 
-Using this as a template for other projects I have.
+Created this to serve as a portfolio and contact page.  Using this repo as a template for other projects I have.
