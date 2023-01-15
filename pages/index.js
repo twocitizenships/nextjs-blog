@@ -22,10 +22,8 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <p>
-          yes hello - I'm interested in Bitcoin and the Lightning network.
-          Currently a software engineer at{" "}
-          <a href="https://strike.me">Strike</a> + working on a project
-          leveraging the Lightning network to support independent media. 
+          yes hello - I'm interested in Bitcoin and the Lightning network.  Working on a project called <a href="https://github.com/twocitizenships/oranges" style={{ color: 'orange' }}>Oranges</a> leveraging the Lightning Network.  Most recently a software engineer at{" "}
+          <a href="https://strike.me">Strike</a>. 
           <pre>
           Reach
           out on <a href="https://twitter.com/twocitizenships">Twitter</a> or <a href="https://github.com/twocitizenships">GitHub</a>.
