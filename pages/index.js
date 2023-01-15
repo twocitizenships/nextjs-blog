@@ -28,7 +28,7 @@ export default function Home({ allPostsData }) {
           leveraging the Lightning network to support independent media. 
           <pre>
           Reach
-          out on <a href="https://twitter.com/twocitizenships">Twitter</a>.
+          out on <a href="https://twitter.com/twocitizenships">Twitter</a> or <a href="https://github.com/twocitizenships">GitHub</a>.
           </pre>
         </p>
       </section>
