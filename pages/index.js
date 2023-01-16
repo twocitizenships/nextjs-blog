@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <p>
-          yes hello - I'm interested in Bitcoin and the Lightning Network.  Working on <a href="https://github.com/twocitizenships/oranges" style={{ color: 'orange' }}>oranges</a> linking bitcoin and the physical world.  Most recently a software engineer at{" "}
+          yes hello - I'm interested in Bitcoin and the Lightning Network.  Working on <a href="https://github.com/twocitizenships/oranges" style={{ color: 'orange' }}>[something private for now]</a> linking bitcoin and the physical world.  Most recently a software engineer at{" "}
           <a href="https://strike.me">Strike</a>. 
           <pre>
           Reach
