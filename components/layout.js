@@ -14,7 +14,7 @@ export default function Layout({ children, home }) {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="clusk lightning network software developer bitcoin reactjs nodejs"
+          content="clusk lightning network software developer bitcoin reactjs nodejs c# c sharp"
         />
         <meta
           property="og:image"
